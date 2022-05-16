@@ -31,7 +31,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43327;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Brisbane Negro Premium - Negro / 37;19990;19990;49990;1003202037;fulfilled;RM
 43326;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Montreal  Premium - Negro / 35;19990;19990;39990;8381072035;fulfilled;RM
 43325;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Chester Blanco Premium - Blanco / 39;19990;19990;49990;1000071039;fulfilled;TA
-43324;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Nina Rosa Delux - Rosa / 37;34990;34990;49990;728-37;fulfilled;AP
+43324;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Nina Rosa Delux - Rosa / 37;34990;34990;49990;72837;fulfilled;AP
 43323;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Frankfurt Blanco Premium - Blanco / 38;34990;34990;0;1001201038;fulfilled;ML
 43322;Solo 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Brisbane Negro Premium - Negro / 37;19990;19990;49990;1003202037;pending;RM
 43321;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Brisbane Negro Premium - Negro / 37;19990;19990;49990;1003202037;fulfilled;RM
@@ -51,12 +51,12 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43310;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Brisbane Negro Premium - Negro / 39;19990;19990;49990;1003202039;fulfilled;RM
 43309;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Moscow Negro Premium - Negro / 37;19990;19990;44990;1838072037;fulfilled;VS
 43308;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Moscow Negro Premium - Negro / 38;19990;19990;44990;1838072038;fulfilled;VS
-43307;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;BotÌ_n Texa Dorado Police - Dorado / 38;24990;24990;0;79-38;pending;RM
+43307;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;BotÌ_n Texa Dorado Police - Dorado / 38;24990;24990;0;7938;pending;RM
 43307;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;;1;Zapato Florencoia Burdeo Premium - Burdeo / 39;19990;19990;49990;20008539;pending;RM
-43307;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;;1;Zapato Negro Delux - Negro / 38;29990;29990;43990;162-38;pending;RM
+43307;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;;1;Zapato Negro Delux - Negro / 38;29990;29990;43990;16238;pending;RM
 43306;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Moscow Negro Premium - Negro / 37;19990;19990;44990;1838072037;fulfilled;RM
 43305;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Moscow Negro Premium - Negro / 37;19990;19990;44990;1838072037;fulfilled;BI
-43304;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Rob Negro Police - Negro / 37;29990;29990;0;52-37;fulfilled;RM
+43304;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Rob Negro Police - Negro / 37;29990;29990;0;5237;fulfilled;RM
 43303;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Calcetin   Premium - Verde / TamaÌ±o Ì_nico;990;990;3990;6503600;fulfilled;RM
 43303;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Mochila Maura  Premium - Negro / TamaÌ±o Ì_nico;9990;9990;39990;6132052000;fulfilled;RM
 43302;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Bootie  Dallas  Premium - Negro / 38;19990;19990;39990;8802072038;fulfilled;RM
@@ -67,7 +67,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43297;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Bota  Cleveland Negro Premium - Negro / 40;19990;19990;89990;1002040;fulfilled;RM
 43296;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Brisbane Negro Premium - Negro / 37;19990;19990;49990;1003202037;fulfilled;RM
 43295;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Brisbane CafÌ© Premium - Negro / 40;9990;9990;49990;1003204040;fulfilled;CO
-43294;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Lenny Negro Police - Negro / 37;29990;29990;0;54-37;fulfilled;RM
+43294;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Lenny Negro Police - Negro / 37;29990;29990;0;5437;fulfilled;RM
 43293;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Linz Animal Premium - Beige / 37;19990;19990;49990;37075437;fulfilled;RM
 43292;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;2;Botin Valencia Negro Premium - Burdeo / 37;9990;19980;39990;3905058537;fulfilled;RM
 43292;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Botin Valencia Negro Premium - Burdeo / 36;9990;9990;39990;3905058536;fulfilled;RM
@@ -110,9 +110,9 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43263;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Bota  Cleveland Negro Premium - Negro / 38;19990;19990;89990;1002038;fulfilled;ML
 43262;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Nueva Orleans  Negro Premium - Negro / 40;19990;19990;39990;6001202040;fulfilled;RM
 43261;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Nueva Orleans  Negro Premium - Negro / 40;19990;19990;39990;6001202040;fulfilled;RM
-43260;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Nina 672  Negro Delux - Negro / 39;34990;34990;49990;729-39;fulfilled;RM
+43260;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Nina 672  Negro Delux - Negro / 39;34990;34990;49990;72939;fulfilled;RM
 43259;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Monserrat Multicolor Premium - Multicolor / 40;9990;9990;39990;23076140;fulfilled;RM
-43258;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Teca Negro Police - Negro / 35;29990;29990;0;90-35;fulfilled;RM
+43258;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Teca Negro Police - Negro / 35;29990;29990;0;9035;fulfilled;RM
 43257;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Grecia Negro Premium - Negro / 38;9990;9990;39990;318072038;fulfilled;RM
 43256;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Bootie  Dallas  Premium - Negro / 38;19990;19990;39990;8802072038;fulfilled;RM
 43255;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Bota  Cleveland Negro Premium - Negro / 36;19990;19990;89990;1002036;fulfilled;RM
@@ -130,7 +130,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43244;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Brisbane CafÌ© Premium - Negro / 38;9990;9990;49990;1003204038;fulfilled;VS
 43243;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;2;Zapatilla Moscow Negro Premium - Negro / 36;19990;39980;44990;1838072036;fulfilled;RM
 43243;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;2;Zapatilla Moscow Negro Premium - Negro / 38;19990;39980;44990;1838072038;fulfilled;RM
-43242;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatillas Sky Negro Police - Negro / 36;19990;19990;0;39-36;fulfilled;RM
+43242;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatillas Sky Negro Police - Negro / 36;19990;19990;0;3936;fulfilled;RM
 43241;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Moscow Negro Premium - Negro / 37;19990;19990;44990;1838072037;fulfilled;RM
 43240;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Valencia Negro Premium - Burdeo / 36;9990;9990;39990;3905058536;fulfilled;RM
 43239;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Nueva Orleans  Negro Premium - Negro / 35;19990;19990;39990;6001202035;fulfilled;RM
@@ -160,14 +160,14 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43220;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Brisbane CafÌ© Premium - Negro / 39;9990;9990;49990;1003204039;fulfilled;AN
 43219;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Moscow Negro Premium - Negro / 38;19990;19990;44990;1838072038;fulfilled;RM
 43218;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Moscow Negro Premium - Negro / 37;19990;19990;44990;1838072037;fulfilled;RM
-43217;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla NIna Blanco Delux - Blanco / 36;34990;34990;49990;736-36;fulfilled;BI
+43217;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla NIna Blanco Delux - Blanco / 36;34990;34990;49990;73636;fulfilled;BI
 43216;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Moscow Negro Premium - Negro / 35;19990;19990;44990;1838072035;fulfilled;RM
 43215;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Nueva Orleans  Negro Premium - Negro / 35;19990;19990;39990;6001202035;fulfilled;RM
 43214;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Moscow Negro Premium - Negro / 38;19990;19990;44990;1838072038;fulfilled;RM
 43214;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Moscow Negro Premium - Negro / 37;19990;19990;44990;1838072037;fulfilled;RM
 43214;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Moscow Negro Premium - Negro / 36;19990;19990;44990;1838072036;fulfilled;RM
 43213;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Moscow Negro Premium - Negro / 36;19990;19990;44990;1838072036;fulfilled;RM
-43212;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Teca Negro Police - Negro / 35;29990;29990;0;90-35;fulfilled;RM
+43212;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Teca Negro Police - Negro / 35;29990;29990;0;9035;fulfilled;RM
 43211;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Nueva Orleans  Negro Premium - Negro / 35;19990;19990;39990;6001202035;fulfilled;RM
 43210;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Botin Grecia Negro Premium - Negro / 37;9990;9990;39990;318072037;fulfilled;BI
 43209;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Dublin Burdeo Premium - Burdeo / 40;19990;19990;36990;5136078540;fulfilled;RM
@@ -189,20 +189,20 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43196;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Pekin 2  Beige Premium - Beige / 40;19990;19990;39990;3284440;pending;RM
 43196;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Marilyn Beige Premium - Beige / 40;29990;29990;0;3611074440;fulfilled;RM
 43195;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Moscow Negro Premium - Negro / 38;19990;19990;44990;1838072038;fulfilled;RM
-43194;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Crocco Negro Police - Negro / 38;24990;24990;0;21-38;fulfilled;RM
+43194;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Crocco Negro Police - Negro / 38;24990;24990;0;2138;fulfilled;RM
 43193;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Ravena Negro Premium - Negro / 38;19990;19990;39990;5012072038;fulfilled;RM
 43193;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Botin Bucarest Taupe Premium - Taupe / 38;19990;19990;39990;3332184238;fulfilled;RM
 43193;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Mochila Maura  Premium - Negro / TamaÌ±o Ì_nico;9990;9990;39990;6138072000;fulfilled;RM
 43192;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Brisbane CafÌ© Premium - Negro / 35;19990;19990;49990;1003204035;fulfilled;RM
 43192;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Monserrat Multicolor Premium - Multicolor / 37;9990;9990;39990;23072937;fulfilled;RM
 43191;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Bootie  Dallas  Premium - Negro / 38;19990;19990;39990;8802072038;fulfilled;RM
-43190;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Zapato Gris Delux - Negro / 36;26990;26990;0;336-36;pending;ML
+43190;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Zapato Gris Delux - Negro / 36;26990;26990;0;33636;pending;ML
 43189;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Arizona Negro Premium - Negro / 39;19990;19990;54990;2002039;fulfilled;RM
 43188;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Botin Bucarest Taupe Premium - Taupe / 35;19990;19990;39990;3332184235;fulfilled;BI
 43187;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Toronto Negro Premium - Negro / 35;19990;19990;49990;100072035;fulfilled;RM
 43186;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Mochila Maura  Premium - Negro / TamaÌ±o Ì_nico;9990;9990;39990;6145072000;fulfilled;RM
-43185;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Zapatilla NIna Blanco Delux - Blanco / 38;34990;34990;49990;736-38;pending;BI
-43184;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapato Negro Delux - Negro / 39;24990;24990;34990;278-39;fulfilled;RM
+43185;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Zapatilla NIna Blanco Delux - Blanco / 38;34990;34990;49990;73638;pending;BI
+43184;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapato Negro Delux - Negro / 39;24990;24990;34990;27839;fulfilled;RM
 43184;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapato Mumbai Negro Premium - Negro / 39;19990;19990;39990;204072039;pending;RM
 43183;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Bootie  Dallas  Premium - Negro / 38;19990;19990;39990;8802072038;fulfilled;RM
 43183;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Botin Linz Animal Premium - Beige / 38;19990;19990;49990;37075438;fulfilled;RM
@@ -213,14 +213,14 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43179;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Toronto Negro Premium - Negro / 38;19990;19990;49990;100072038;fulfilled;RM
 43179;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Brisbane CafÌ© Premium - Negro / 38;9990;9990;49990;1003204038;fulfilled;RM
 43178;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Bota  Cleveland Negro Premium - Negro / 39;19990;19990;89990;1002039;fulfilled;LL
-43177;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Negro Delux - Negro / 38;49990;49990;0;978w-38;fulfilled;RM
+43177;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Negro Delux - Negro / 38;49990;49990;0;978w38;fulfilled;RM
 43176;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Chester Blanco Premium - Blanco / 38;19990;19990;49990;1000071038;fulfilled;RM
 43175;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Hawaii Negro Premium - Negro / 35;19990;19990;36990;2231072035;fulfilled;RM
 43174;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Brisbane CafÌ© Premium - Negro / 37;9990;9990;49990;1003204037;fulfilled;LI
 43174;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Botin Toronto Negro Premium - Negro / 37;19990;19990;49990;100072037;fulfilled;LI
 43173;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Zapatilla Chester Blanco Premium - Blanco / 38;19990;19990;49990;1000071038;pending;CO
 43172;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Bootie  Dallas  Premium - Negro / 38;19990;19990;39990;8802072038;fulfilled;RM
-43171;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Sandalia Playera Verde Ipanema - Verde / 38/39;12990;12990;0;34-P-38-39;pending;LI
+43171;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Sandalia Playera Verde Ipanema - Verde / 38/39;12990;12990;0;34P3839;pending;LI
 43170;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Bota  Cleveland Negro Premium - Negro / 37;19990;19990;89990;1002037;fulfilled;RM
 43169;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Zapato San Francisco Burdeo Premium - Burdeo / 37;19990;19990;36990;7052437;pending;LI
 43168;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Moscow Negro Premium - Negro / 37;19990;19990;44990;1838072037;fulfilled;RM
@@ -346,7 +346,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43094;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Angelica Negro Premium - Negro / 36;9990;9990;29990;100072036;fulfilled;RM
 43093;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Marilyn Beige Premium - Beige / 36;9990;9990;29990;3611074436;fulfilled;RM
 43093;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Angelica Negro Premium - Negro / 36;9990;9990;29990;100072036;fulfilled;RM
-43092;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Negra Delux - Negro / 39;39990;39990;48990;327P-39;fulfilled;RM
+43092;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Negra Delux - Negro / 39;39990;39990;48990;327P39;fulfilled;RM
 43091;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Montreal  Premium - Negro / 35;9990;9990;39990;8381072035;fulfilled;RM
 43090;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Ambar  Negro  Premium - Negro / 37;9990;9990;29990;400072037;fulfilled;RM
 43090;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Botin Veracruz Piton Premium - Amarillo / 37;9990;9990;39990;333072037;fulfilled;RM
@@ -360,7 +360,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43085;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Botin Paris Burdeo Premium - Burdeo / 39;9990;9990;39990;8172078539;fulfilled;LL
 43085;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Botin Brucelas Verde musgo Premium - Verde musgo / 39;9990;9990;36990;9451078439;fulfilled;LL
 43084;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Brisbane Negro Premium - Negro / 35;9990;9990;49990;1003202035;fulfilled;BI
-43083;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;BotÌ_n Texa Dorado Police - Dorado / 38;24990;24990;0;79-38;fulfilled;RM
+43083;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;BotÌ_n Texa Dorado Police - Dorado / 38;24990;24990;0;7938;fulfilled;RM
 43083;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Shanghai Negro Premium - Negro / 38;9990;9990;29990;300072038;fulfilled;RM
 43083;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Botin Denver Negro Premium - Negro / 38;9990;9990;39990;6703072038;fulfilled;RM
 43082;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Nueva Orleans  Negro Premium - Negro / 35;9990;9990;39990;6001202035;fulfilled;RM
@@ -377,11 +377,11 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43077;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Catalina Beige Premium - Beige / 37;9990;9990;29990;1284437;fulfilled;RM
 43076;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Delhi Rosado Premium - Rosado / 39;9990;9990;29990;200077439;fulfilled;RM
 43076;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Sandalia Hortensia Blanco Premium - Blanco / 39;9990;9990;39990;11071039;fulfilled;RM
-43076;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatillas Sky Blanco Police - Blanco / 39;19990;19990;0;38-39;fulfilled;RM
+43076;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatillas Sky Blanco Police - Blanco / 39;19990;19990;0;3839;fulfilled;RM
 43075;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Catalina Beige Premium - Beige / 37;9990;9990;29990;1284437;fulfilled;RM
 43074;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;2;Zapatilla Chester Blanco Premium - Blanco / 35;9990;19980;49990;1000071035;fulfilled;RM
 43073;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Valencia Negro Premium - Burdeo / 38;9990;9990;39990;3905058538;fulfilled;RM
-43072;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatos Tilo Negros Police - Negro / 39;19990;19990;0;dic-39;fulfilled;RM
+43072;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatos Tilo Negros Police - Negro / 39;19990;19990;0;oct-71;fulfilled;RM
 43071;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Paris Burdeo Premium - Burdeo / 38;9990;9990;39990;8172078538;fulfilled;RM
 43070;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Valencia Negro Premium - Burdeo / 36;9990;9990;39990;3905058536;fulfilled;RM
 43070;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Botin Toronto Leopardo Premium - Beige / 36;9990;9990;39990;100075436;fulfilled;RM
@@ -408,9 +408,9 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43056;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;2;Zapatilla Chester Blanco Premium - Blanco / 38;9990;19980;49990;1000071038;fulfilled;AR
 43055;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Brisbane CafÌ© Premium - Negro / 39;9990;9990;49990;1003204039;fulfilled;VS
 43055;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Zapatilla Chester Blanco Premium - Blanco / 39;9990;9990;49990;1000071039;fulfilled;VS
-43054;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Nina 672  Negro Delux - Negro / 40;34990;34990;49990;729-40;fulfilled;LR
+43054;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Nina 672  Negro Delux - Negro / 40;34990;34990;49990;72940;fulfilled;LR
 43054;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Botin Bucarest Taupe Premium - Taupe / 40;9990;9990;39990;3332184240;fulfilled;LR
-43054;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Zapatilla Nina 6732  Blanco Delux - Blanco / 40;34990;34990;49990;732-40;fulfilled;LR
+43054;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Zapatilla Nina 6732  Blanco Delux - Blanco / 40;34990;34990;49990;73240;fulfilled;LR
 43053;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Nueva Orleans  Negro Premium - Negro / 38;9990;9990;39990;6001202038;fulfilled;RM
 43052;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Ambar  Negro  Premium - Negro / 36;9990;9990;29990;400072036;fulfilled;BI
 43052;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Botin Indiana CafÌ© Premium - CafÌ© / 36;9990;9990;36990;8539074036;fulfilled;BI
@@ -420,7 +420,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43049;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Botin Denver Negro Premium - Negro / 38;9990;9990;39990;6703072038;fulfilled;LL
 43048;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Nueva Orleans  Negro Premium - Negro / 38;9990;9990;39990;6001202038;fulfilled;RM
 43047;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Botin Ravena Camel Premium - Camel / 36;9990;9990;39990;5012074936;pending;CO
-43047;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Zapatilla Sport Negro  Petite Jolie - Negro / 36;39990;39990;0;22-36;fulfilled;CO
+43047;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Zapatilla Sport Negro  Petite Jolie - Negro / 36;39990;39990;0;2236;fulfilled;CO
 43047;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Zapatilla Dana Negro Premium - Negro / 36;9990;9990;29990;4501072036;fulfilled;CO
 43046;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Nueva Orleans  Negro Premium - Negro / 38;9990;9990;39990;6001202038;fulfilled;RM
 43045;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Amelia Blanco Premium - Blanco / 37;9990;9990;39990;200071037;fulfilled;RM
@@ -487,8 +487,8 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 43008;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Tokio Orange Premium - Naranja / 37;9990;9990;49990;9501055337;fulfilled;RM
 43007;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Alaska Burdeo Premium - Burdeo / 38;9990;9990;39990;4706078538;fulfilled;RM
 43006;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Frankfurt Negro Premium - Negro / 38;9990;9990;34990;1001202038;fulfilled;RM
-43005;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Rojo Delux - RubÌ_ / 37;47990;47990;0;561w-37;fulfilled;RM
-43005;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia  Victoria  6054 Negro Delux - Negro / 39;24990;24990;31990;054-39;fulfilled;RM
+43005;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Rojo Delux - RubÌ_ / 37;47990;47990;0;561w37;fulfilled;RM
+43005;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia  Victoria  6054 Negro Delux - Negro / 39;24990;24990;31990;5439;fulfilled;RM
 43005;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapato Bucarest Negro Premium - Negro / 37;14990;14990;39990;57072037;fulfilled;RM
 43004;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Frankfurt Negro Premium - Negro / 39;9990;9990;34990;1001202039;fulfilled;RM
 43004;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Angelica Negro Premium - Negro / 39;9990;9990;29990;100072039;fulfilled;RM
@@ -508,7 +508,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42994;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Angelica Blanco Premium - Blanco / 40;9990;9990;29990;100071040;fulfilled;RM
 42994;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Botin Florida Negro Premium - Negro / 39;9990;9990;39990;6983052039;fulfilled;RM
 42994;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Marilyn Beige Premium - Beige / 39;9990;9990;29990;3611074439;fulfilled;RM
-42993;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Negro Delux - Negro / 36;39990;39990;0;379-36;fulfilled;RM
+42993;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Negro Delux - Negro / 36;39990;39990;0;37936;fulfilled;RM
 42992;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Denver Negro Premium - Negro / 37;9990;9990;39990;6703072037;fulfilled;RM
 42991;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Botin Florida Negro Premium - Negro / 39;9990;9990;39990;6983052039;fulfilled;BI
 42991;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Botin Kansas Negro Premium - Negro / 39;9990;9990;39990;6974072039;fulfilled;BI
@@ -549,9 +549,9 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42972;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Oviedo Beige Premium - Beige / 36;9990;9990;39990;6102078136;fulfilled;RM
 42972;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Botin Toronto Negro Premium - Negro / 36;9990;9990;49990;100072036;fulfilled;RM
 42971;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Oviedo Beige Premium - Beige / 36;9990;9990;39990;6102078136;fulfilled;BI
-42971;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Sandalia Cat Azul Ipanema - Azul / 24/25;12990;12990;0;002-24;fulfilled;BI
-42971;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Sandalia Lol Kids Lila Ipanema - Lila / 28/29;13990;13990;0;234-28;fulfilled;BI
-42970;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Teca Negro Police - Negro / 37;29990;29990;0;90-37;fulfilled;RM
+42971;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Sandalia Cat Azul Ipanema - Azul / 24/25;12990;12990;0;224;fulfilled;BI
+42971;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Sandalia Lol Kids Lila Ipanema - Lila / 28/29;13990;13990;0;23428;fulfilled;BI
+42970;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Teca Negro Police - Negro / 37;29990;29990;0;9037;fulfilled;RM
 42969;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Nueva Orleans  Negro Premium - Negro / 37;9990;9990;39990;6001202037;fulfilled;RM
 42968;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Alaska Burdeo Premium - Burdeo / 38;9990;9990;39990;4706078538;fulfilled;RM
 42967;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Melbourne Negro Premium - Negro / 35;9990;9990;49990;1004072035;fulfilled;RM
@@ -559,7 +559,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42965;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Angelica Blanco Premium - Blanco / 38;9990;9990;29990;100071038;fulfilled;RM
 42964;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Shanghai Negro Premium - Negro / 36;9990;9990;29990;300072036;fulfilled;RM
 42963;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Nueva Orleans  Negro Premium - Negro / 37;9990;9990;39990;6001202037;fulfilled;RM
-42962;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Marshmallow 5463 Blanco Delux - Blanco / 38;19990;19990;0;463-38;fulfilled;RM
+42962;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Marshmallow 5463 Blanco Delux - Blanco / 38;19990;19990;0;46338;fulfilled;RM
 42961;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Dana Negro Premium - Negro / 37;9990;9990;29990;4501072037;fulfilled;RM
 42961;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Fernanda Rojo Premium - Rojo / 37;9990;9990;24990;7281367637;fulfilled;RM
 42960;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Moscow Negro Premium - Negro / 37;9990;9990;44990;1838072037;fulfilled;RM
@@ -624,7 +624,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42929;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Ravena Negro Premium - Negro / 36;9990;9990;39990;5012072036;fulfilled;RM
 42929;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Botin Toronto Negro Premium - Negro / 36;9990;9990;49990;100072036;fulfilled;RM
 42929;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Botin Toronto Leopardo Premium - Beige / 36;9990;9990;39990;100075436;fulfilled;RM
-42928;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Negro Delux - Negro / 40;20990;20990;23990;197-40;fulfilled;RM
+42928;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Negro Delux - Negro / 40;20990;20990;23990;19740;fulfilled;RM
 42927;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Nala Blanco Premium - Blanco / 35;9990;9990;32990;1018071035;fulfilled;RM
 42926;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Brisbane CafÌ© Premium - Negro / 37;9990;9990;49990;1003204037;fulfilled;LI
 42925;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Angelica Blanco Premium - Blanco / 35;9990;9990;29990;100071035;fulfilled;RM
@@ -640,7 +640,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42920;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Zapatilla Brisbane CafÌ© Premium - Negro / 39;9990;9990;49990;1003204039;fulfilled;AT
 42920;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Zapatilla Moscow Negro Premium - Negro / 39;9990;9990;44990;1838072039;fulfilled;AT
 42919;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;2;Botin Tijuana Burdeo Premium - Burdeo / 39;9990;19980;39990;20078539;fulfilled;AR
-42918;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Crocco Negro Police - Negro / 37;24990;24990;0;ago-37;fulfilled;RM
+42918;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Crocco Negro Police - Negro / 37;24990;24990;0;mar-62;fulfilled;RM
 42917;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Michigan Negro Premium - Negro / 36;9990;9990;39990;6134072036;fulfilled;RM
 42917;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Botin Monterrey Burdeo Premium - Burdeo / 35;9990;9990;39990;10078535;fulfilled;RM
 42916;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Amsterdam Negro Premium - Negro / 39;9990;9990;36990;3097072039;fulfilled;RM
@@ -872,7 +872,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42797;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Monserrat Multicolor Premium - Multicolor / 40;9990;9990;39990;23076140;fulfilled;RM
 42797;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Melbourne Negro Premium - Negro / 35;9990;9990;49990;1004072035;fulfilled;RM
 42796;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Zapatilla Fernanda Rojo Premium - Rojo / 38;9990;9990;24990;7281367638;pending;AT
-42796;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region;;1;Sandalia Playera Negro Ipanema - Negro / 38/39;12990;12990;0;26-P-38-39;pending;AT
+42796;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region;;1;Sandalia Playera Negro Ipanema - Negro / 38/39;12990;12990;0;26P3839;pending;AT
 42796;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region;;1;Zapatilla Catalina Black Premium - Negro / 38;9990;9990;39990;1282038;pending;AT
 42795;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Hortensia Blanco Premium - Blanco / 38;9990;9990;39990;11071038;fulfilled;RM
 42795;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Amelia Blanco Premium - Blanco / 38;9990;9990;39990;200071038;fulfilled;RM
@@ -1183,7 +1183,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42649;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Dana Negro Premium - Negro / 35;9990;9990;29990;4501072035;pending;RM
 42649;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;;1;Botin Tijuana Burdeo Premium - Burdeo / 36;9990;9990;39990;20078536;pending;RM
 42648;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Alaska Burdeo Premium - Burdeo / 37;9990;9990;39990;4706078537;fulfilled;RM
-42647;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Lakers Negro Rider - Negro / 44/45;19990;19990;0;501-44-45;pending;RM
+42647;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Lakers Negro Rider - Negro / 44/45;19990;19990;0;5014445;pending;RM
 42647;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;;1;Zapatilla Moscow Negro Premium - Negro / 37;9990;9990;44990;1838072037;pending;RM
 42646;Solo 1;Pagado;Sin despacho;CLP;Despacho Region;Despacho Region;1;Botin Nueva Orleans  Negro Premium - Negro / 38;9990;9990;39990;6001202038;pending;BI
 42645;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Nicole Blanco Premium - Blanco / 39;9990;9990;39990;210071039;fulfilled;RM
@@ -1223,8 +1223,8 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42627;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Sandalia Hortensia Negro Premium - Negro / 39;9990;9990;39990;11072039;fulfilled;BI
 42627;Mayor a 1;Pagado;Despachado;CLP;Despacho Region;;1;Sandalia Nicole Blanco Premium - Blanco / 39;9990;9990;39990;210071039;fulfilled;BI
 42626;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Naya Blanco Premiumi - Beige / 38;9990;9990;29990;2281038;fulfilled;RM
-42625;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Acai 3112  Nude Grendha - MarrÌ_n / 36;21990;21990;0;112-36;fulfilled;RM
-42625;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Sandalia Anillo Blanco Ipanema - Blanco / 36;14990;14990;0;18-P-36;fulfilled;RM
+42625;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Acai 3112  Nude Grendha - MarrÌ_n / 36;21990;21990;0;11236;fulfilled;RM
+42625;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Sandalia Anillo Blanco Ipanema - Blanco / 36;14990;14990;0;18P36;fulfilled;RM
 42624;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Jacinto Negro Premium - Negro / 38;9990;9990;39990;80072038;fulfilled;RM
 42624;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Dana Negro Premium - Negro / 38;9990;9990;29990;4501072038;fulfilled;RM
 42623;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Lancaster  Negro Premium - Negro / 39;9990;9990;39990;90072039;fulfilled;RM
@@ -1244,7 +1244,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42616;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Catalina Beige Premium - Beige / 38;9990;9990;29990;1284438;fulfilled;RM
 42615;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Moscow Negro Premium - Negro / 38;9990;9990;44990;1838072038;fulfilled;RM
 42614;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Frankfurt Blanco Premium - Blanco / 38;9990;9990;34990;1001201038;fulfilled;RM
-42613;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Negro 6014  Delux - Negro / 36;24990;24990;29990;014-36;fulfilled;RM
+42613;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Negro 6014  Delux - Negro / 36;24990;24990;29990;1436;fulfilled;RM
 42612;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Frankfurt Blanco Premium - Blanco / 37;9990;9990;34990;1001201037;fulfilled;AT
 42611;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Angelica Negro Premium - Negro / 35;9990;9990;29990;100072035;fulfilled;RM
 42610;Mayor a 1;Pagado;Sin despacho;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Botin Valencia Negro Premium - Burdeo / 36;9990;9990;39990;3905058536;pending;RM
@@ -1297,9 +1297,9 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42586;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Naya Blanco Premiumi - Beige / 38;9990;9990;29990;2281038;fulfilled;RM
 42585;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Naroa Blanco Premium - Blanco / 40;9990;9990;39990;100071040;fulfilled;RM
 42584;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Frankfurt Negro Premium - Negro / 38;9990;9990;34990;1001202038;fulfilled;LI
-42583;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Negro Delux - Negro / 36;27990;27990;0;219-36;fulfilled;RM
-42583;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Sandalia Negro Delux - Negro / 37;24990;24990;41900;C047-37;fulfilled;RM
-42583;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Sandalia Cedro Delux - Terracota / 37;39990;39990;0;992-37;fulfilled;RM
+42583;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Negro Delux - Negro / 36;27990;27990;0;21936;fulfilled;RM
+42583;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Sandalia Negro Delux - Negro / 37;24990;24990;41900;C04737;fulfilled;RM
+42583;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Sandalia Cedro Delux - Terracota / 37;39990;39990;0;99237;fulfilled;RM
 42583;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Delhi Rosado Premium - Rosado / 37;9990;9990;29990;200077437;fulfilled;RM
 42583;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Zapatilla Ambar  Negro  Premium - Negro / 37;9990;9990;29990;400072037;fulfilled;RM
 42582;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;2;Botin Nueva Orleans  Negro Premium - Negro / 38;9990;19980;39990;6001202038;fulfilled;RM
@@ -1338,7 +1338,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42566;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Brisbane CafÌ© Premium - Negro / 39;9990;9990;49990;1003204039;fulfilled;VS
 42565;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Jacinta Negro Premium - Negro / 39;9990;9990;44990;1004072039;fulfilled;RM
 42565;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Zapatilla Sofia Multicolor Premium - Negro / 39;9990;9990;39990;3679079039;fulfilled;RM
-42565;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Inova 3093 Negro Grendha - Negro / 39;12990;12990;0;093-39;fulfilled;RM
+42565;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Inova 3093 Negro Grendha - Negro / 39;12990;12990;0;9339;fulfilled;RM
 42564;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Frankfurt Negro Premium - Negro / 36;9990;9990;34990;1001202036;fulfilled;RM
 42563;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Campanilla Blanco Premium - Blanco / 39;9990;9990;39990;9071039;fulfilled;RM
 42563;Mayor a 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;;1;Sandalia Jacinta Negro Premium - Negro / 39;9990;9990;44990;1004072039;fulfilled;RM
@@ -1426,10 +1426,10 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42522;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Iris Negro Premium - Negro / 39;9990;9990;39990;17072039;fulfilled;RM
 42522;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Azalea Multicolor Premium - Multicolor / 39;9990;9990;39990;7075239;pending;RM
 42521;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Botin Edimburgo Negro Premium - Negro / 38;9990;9990;39990;3306182038;fulfilled;NB
-42520;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Geo 922 Beige Ipanema - Beige / 39;14990;14990;0;22-P-39;fulfilled;RM
-42520;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Chin  3340  Blanco  Zaxy - Blanco / 39;13990;13990;0;340-39;fulfilled;RM
-42520;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Inova 3093 Negro Grendha - Negro / 39;12990;12990;0;093-39;fulfilled;RM
-42520;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Chin  3339  Negro  Zaxy - Negro / 39;13990;13990;0;339-39;fulfilled;RM
+42520;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Geo 922 Beige Ipanema - Beige / 39;14990;14990;0;22P39;fulfilled;RM
+42520;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Chin  3340  Blanco  Zaxy - Blanco / 39;13990;13990;0;34039;fulfilled;RM
+42520;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Inova 3093 Negro Grendha - Negro / 39;12990;12990;0;9339;fulfilled;RM
+42520;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Chin  3339  Negro  Zaxy - Negro / 39;13990;13990;0;33939;fulfilled;RM
 42519;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Nicole Blanco Premium - Blanco / 39;9990;9990;39990;210071039;fulfilled;RM
 42519;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Azalea Multicolor Premium - Multicolor / 39;9990;9990;39990;7075239;fulfilled;RM
 42519;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Azalea Negro Premium - Negro / 39;9990;9990;39990;7072039;pending;RM
@@ -1537,8 +1537,8 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42469;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Azalea Negro Premium - Negro / 38;9990;9990;39990;7072038;fulfilled;RM
 42468;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Marilyn Beige Premium - Beige / 36;9990;9990;29990;3611074436;fulfilled;BI
 42467;Solo 1;Pagado;Despachado;CLP;Despacho Region;Despacho Region;1;Zapatilla Catalina Beige Premium - Beige / 38;9990;9990;29990;1284438;fulfilled;BI
-42466;Mayor a 1;Pagado;Sin despacho;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Negro Delux - Negro / 36;24990;24990;0;163-36;pending;RM
-42466;Mayor a 1;Pagado;Sin despacho;CLP;Retiro en tienda;;1;Sandalia Mari 6159 Negro Delux - Negro / 37;19990;19990;24990;159-37;pending;RM
+42466;Mayor a 1;Pagado;Sin despacho;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Negro Delux - Negro / 36;24990;24990;0;16336;pending;RM
+42466;Mayor a 1;Pagado;Sin despacho;CLP;Retiro en tienda;;1;Sandalia Mari 6159 Negro Delux - Negro / 37;19990;19990;24990;15937;pending;RM
 42465;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Zapatilla Ambar  Negro  Premium - Negro / 35;9990;9990;29990;400072035;fulfilled;RM
 42464;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Azalea Multicolor Premium - Multicolor / 36;9990;9990;39990;7075236;fulfilled;RM
 42464;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Hortensia Blanco Premium - Blanco / 39;9990;9990;39990;11071039;fulfilled;RM
@@ -1610,7 +1610,7 @@ Name;Mayores a 1;Pago 2;Despachos 2;Monedas 2;Shipping Method 2;Shipping Method;
 42434;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Botin Valencia Negro Premium - Burdeo / 39;9990;9990;39990;3905058539;fulfilled;RM
 42434;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Botin Monterrey Negro Premium - Negro / 39;9990;9990;39990;10072039;fulfilled;RM
 42434;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Botin Paris Burdeo Premium - Burdeo / 39;9990;9990;39990;8172078539;fulfilled;RM
-42433;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Victoria 6041 Negro Delux - Negro / 37;29990;29990;34990;041-37;fulfilled;RM
+42433;Solo 1;Pagado;Despachado;CLP;Despacho Region Metropolitana;Despacho Region Metropolitana;1;Sandalia Victoria 6041 Negro Delux - Negro / 37;29990;29990;34990;4137;fulfilled;RM
 42432;Solo 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Zapatilla Naya Blanco Premiumi - Beige / 40;14990;14990;29990;2281040;fulfilled;RM
 42431;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;Retiro en tienda;1;Sandalia Neila CafÌ© Premium - CafÌ© / 36;9990;9990;39990;2102074936;fulfilled;RM
 42431;Mayor a 1;Pagado;Despachado;CLP;Retiro en tienda;;1;Sandalia Noa Multicolor Premium - Multicolor / 36;9990;9990;44990;1022289036;fulfilled;RM
